@@ -1,0 +1,1 @@
+print("Tämä on opas Gitin versionhallintaan")
