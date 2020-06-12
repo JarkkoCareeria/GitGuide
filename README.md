@@ -1,2 +1,2 @@
 # GitGuide
-Few Git commands
+Few Git commands for Git course return task.
