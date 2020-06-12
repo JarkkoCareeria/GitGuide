@@ -4,4 +4,7 @@ opas=input("Auttaako tämä opas sinua Gitin hallinnassa?: ")
 if opas=="yes":
     print("Hyvä, niin ajattelinkin")
 else:
-    print("Tutki sitten YouTubesta lisää!")
+    opettele=input("Haluatko opetella lisää? ")
+    if opettele=="yes":
+        print("Tutki sitten YouTubesta lisää ja ole tarkkana!")
+        
